@@ -1,0 +1,5 @@
+a = float(input("Enter a Number: "))
+b = float(input("Enter a Number: "))
+c = int(a+b)
+print("The Actual Sum: ", a+b)
+print("The Sum of two numbers in Integer form: ", c)
